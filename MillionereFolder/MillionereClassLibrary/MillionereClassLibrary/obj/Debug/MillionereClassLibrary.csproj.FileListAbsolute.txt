@@ -1,0 +1,10 @@
+c:\users\a578\documents\visual studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+c:\users\a578\documents\visual studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+c:\users\a578\documents\visual studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\a578\documents\visual studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+c:\users\a578\documents\visual studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+c:\users\a578\documents\visual studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojAssemblyReference.cache
+J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
