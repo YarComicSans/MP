@@ -1,34 +1,55 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace MillionereClassLibrary
 {
+    [Serializable]
     public class Game
     {
-        private Hoster _hoster;
-        private int currentScorePosition;
-        private Round _currentRound;
-        private bool _roundWon;
-        private Player _currentPlayer;
-        private List<QuestionStructure> _questionStructureList;
-
-        public Game(Hoster host, Player player)
+        public Hoster _hoster;
+        public List<QuestionStructure> _questionStructureList;
+        public Player CurrentPlayer;
+        public bool GameIsWon = false;
+        public int CurrentScorePosition;
+        public Round CurrentRound;
+        public List<int> SafePositionsSet;
+        public Game(Hoster host, List<QuestionStructure> qS, Player player, List<int> sP)
         {
             _hoster = host;
-            currentScorePosition = 0;
-            _currentPlayer = player;
+            CurrentScorePosition = 0;
+            _questionStructureList = qS;
+            CurrentPlayer = player;
+            SafePositionsSet = sP;
+
+            SafePositionsSet.Sort();
         }
 
-
-        public void ChangeScore()
+        public Game()
         { }
+        
+        public void RoundWon()
+        {
+            CurrentScorePosition++;
+            if (CurrentScorePosition >= _questionStructureList.Count)
+                GameWon();
 
-        public void PlayRound()
-        { }
+            SetNewRound();
+        }
 
+        private void GameWon()
+        {
+            GameIsWon = true;
+        }
 
+        private void SetNewRound()
+        {
+            CurrentRound = new Round(CurrentPlayer, _questionStructureList[CurrentScorePosition]);
+        }
+
+        public QuestionStructure GetQuestionStructure(int index)
+        {
+            return _questionStructureList[index];
+        }
     }
 }

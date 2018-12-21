@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace MillionereClassLibrary.Hints
 {
+    [Serializable]
     public abstract class Hint
     {
         public string CurrentIconPath;
@@ -16,6 +17,7 @@ namespace MillionereClassLibrary.Hints
         {
             IsAvailable = true;
         }
+
         public abstract List<string> CalculateAnswer(List<string> answers, string correctAnswer, int requiredProbability);
 
         public void SetUsed()

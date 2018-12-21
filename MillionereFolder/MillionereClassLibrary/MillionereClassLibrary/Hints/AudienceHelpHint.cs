@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace MillionereClassLibrary.Hints
 {
-    partial class AudienceHelpHint : Hint
-    {
-        public AudienceHelpHint() : base()
-        {
-        }
+    [Serializable]
+    public class AudienceHelpHint : Hint
+    { 
+        //public AudienceHelpHint() : base()
+        //{
+        //}
 
+        public AudienceHelpHint()
+        {
+            IsAvailable = true;
+        }
         public override List<string> CalculateAnswer(List<string> answers, string correctAnswer, int requiredProbability)
         {
             SetUsed();
@@ -21,7 +26,7 @@ namespace MillionereClassLibrary.Hints
             int maxPercent = 100;
             int randomPercent = randomValue.Next(maxPercent);
 
-            if (maxPercent <= requiredProbability)
+            if (randomPercent <= requiredProbability)
             {
                 result.Add(correctAnswer);
                 answers.Remove(correctAnswer);

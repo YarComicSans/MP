@@ -1,0 +1,61 @@
+C:\Users\User\source\repos\Redactor\Redactor\bin\Debug\Redactor.exe.config
+C:\Users\User\source\repos\Redactor\Redactor\bin\Debug\Redactor.exe
+C:\Users\User\source\repos\Redactor\Redactor\bin\Debug\Redactor.pdb
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\AddPack.g.cs
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor_MarkupCompile.cache
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor_MarkupCompile.lref
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\AddPack.baml
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.g.resources
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.Properties.Resources.resources
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.exe
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\Redactor.pdb
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\DeletePack.g.cs
+C:\Users\User\source\repos\Redactor\Redactor\obj\Debug\DeletePack.baml
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\bin\Debug\Redactor.exe.config
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\bin\Debug\Redactor.exe
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\bin\Debug\Redactor.pdb
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\AddPack.g.cs
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\ChangePack.g.cs
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\DeletePack.g.cs
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\MainWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\AddPack.baml
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\ChangePack.baml
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\DeletePack.baml
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\MainWindow.baml
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.g.resources
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.exe
+C:\Users\Ирина Грибкова\Downloads\Redactor\Redactor\Redactor\obj\Debug\Redactor.pdb
+D:\MillionereClassLibrary\Redactor\Redactor\bin\Debug\Redactor.exe.config
+D:\MillionereClassLibrary\Redactor\Redactor\bin\Debug\Redactor.exe
+D:\MillionereClassLibrary\Redactor\Redactor\bin\Debug\Redactor.pdb
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.csprojAssemblyReference.cache
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\AddPack.g.cs
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\ChangePack.g.cs
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\DeletePack.g.cs
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\MainWindow.g.cs
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\App.g.cs
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor_MarkupCompile.cache
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor_MarkupCompile.lref
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\AddPack.baml
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\ChangePack.baml
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\DeletePack.baml
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\MainWindow.baml
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.g.resources
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.Properties.Resources.resources
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.csproj.GenerateResource.cache
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.csproj.CoreCompileInputs.cache
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.exe
+D:\MillionereClassLibrary\Redactor\Redactor\obj\Debug\Redactor.pdb

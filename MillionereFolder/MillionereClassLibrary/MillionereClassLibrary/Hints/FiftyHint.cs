@@ -3,10 +3,16 @@ using System.Collections.Generic;
 
 namespace MillionereClassLibrary.Hints
 {
-    partial class FiftyHint : Hint
+    [Serializable]
+    public class FiftyHint : Hint
     {
-        public FiftyHint() : base()
+        //public FiftyHint() : base()
+        //{
+        //}
+
+        public FiftyHint(bool available = true)
         {
+            IsAvailable = true;
         }
 
         public override List<string> CalculateAnswer(List<string> answers, string correctAnswer, int requestedPossibility = 0)

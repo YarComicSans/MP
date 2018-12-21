@@ -4,18 +4,39 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MillionereClassLibrary.Hints;
+using System.Xml.Serialization;
 
 namespace MillionereClassLibrary
 {
+    [Serializable]
      public class Round
     {
-        private QuestionStructure _currentQuestionStructure;
-        private readonly Player _currentPlayer;
+        public QuestionStructure _currentQuestionStructure;
+        public Player _currentPlayer;
+        public HintsUsage UsedHints = new HintsUsage();
 
         public Round(Player player, QuestionStructure questionStructure)
         {
             _currentPlayer = player;
             _currentQuestionStructure = questionStructure;
+        }
+
+        public Round()
+        { }
+
+        public void SetCallHintsPosition(int position)
+        {
+            UsedHints.CallFriendPosition = position;
+        }
+
+        public void SetAudienceHintPositions(List<int> positions)
+        {
+            UsedHints.AudienceHelpPositions = positions;
+        }
+
+        public void SetFiftyFiftyPositions(List<int> positions)
+        {
+            UsedHints.FiftyFiftyPositions = positions;
         }
 
         public void ChangeCurrectQuestionStructure(QuestionStructure questionStructure)
@@ -34,6 +55,11 @@ namespace MillionereClassLibrary
             return _currentQuestionStructure.Question;
         }
 
+        public string GetCorrectAnswer()
+        {
+            return _currentQuestionStructure.CorrectAnswer;
+        }
+
         public List<string> GetAnswers()
         {
             return _currentQuestionStructure.Answers;
@@ -48,5 +74,9 @@ namespace MillionereClassLibrary
             return hint.CalculateAnswer(answers,correctAnswer,requiredProbability);
         }
 
+        public void RemoveAnswers(List<string> answers)
+        {
+            _currentQuestionStructure.RemoveAnswers(answers);
+        }
     }
 }

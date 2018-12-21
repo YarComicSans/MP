@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace MillionereClassLibrary.Hints
 {
-    partial class CallFriendHint : Hint
+    [Serializable]
+    public class CallFriendHint : Hint
     {
-        public CallFriendHint() : base()
+
+        public CallFriendHint(bool available = true)
         {
+            IsAvailable = true;
         }
 
+        public CallFriendHint()
+        { }
 
         public override List<string> CalculateAnswer(List<string> answers, string correctAnswer, int requiredProbability)
         {
@@ -23,11 +28,8 @@ namespace MillionereClassLibrary.Hints
 
             if(calculatedProbability <= requiredProbability)
                 return new List<string> {correctAnswer};
-            else
-            {
-                answers.Remove(correctAnswer);
-                return new List<string> {answers[calculatedProbability % answers.Count]};
-            }
+            answers.Remove(correctAnswer);
+            return new List<string> {answers[calculatedProbability % answers.Count]};
         }
     }
 }

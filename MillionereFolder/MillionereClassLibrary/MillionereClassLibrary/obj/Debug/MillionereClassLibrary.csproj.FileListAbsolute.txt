@@ -8,3 +8,34 @@ J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrar
 J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
 J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
 J:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+G:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+G:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+G:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojResolveAssemblyReference.cache
+G:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+G:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+G:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+I:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+I:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+I:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojAssemblyReference.cache
+I:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+I:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+I:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+G:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+G:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+G:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
+I:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+I:\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+I:\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
+C:\Users\a578\Documents\Visual Studio 2017\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\a578\Documents\Visual Studio 2017\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\a578\Documents\Visual Studio 2017\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+C:\Users\a578\Documents\Visual Studio 2017\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb

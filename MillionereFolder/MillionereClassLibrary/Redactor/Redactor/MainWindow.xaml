@@ -1,0 +1,56 @@
+﻿<Window x:Class="Redactor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Redactor"
+        mc:Ignorable="d"
+        Title="Меню" Icon="icon2.png" Height="596.867" Width="1003.264">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="fon2.png"/>
+        </Grid.Background>
+        <Button Name ="AddPack" HorizontalAlignment="Left" Height="267" Margin="119,218,0,0" VerticalAlignment="Top" Width="199" Click="AddPack_Click">
+            <Image Source="question.png" Stretch="Fill"></Image>
+        </Button>
+        <Button Name ="DeletePack"  HorizontalAlignment="Left" Height="267" Margin="674,218,0,0" VerticalAlignment="Top" Width="198" Click="DeletePack_Click" IsCancel="True">
+            <Image Source="Delete.png" Stretch="Fill"></Image>
+        </Button>
+        <Button Name ="ChangePack" HorizontalAlignment="Left" Height="267" Margin="404,218,0,0" VerticalAlignment="Top" Width="191" Click="ChangePack_Click">
+            <Image Source="change.png" Width="189" Stretch="Fill"></Image>
+        </Button>
+        <TextBox HorizontalAlignment="Left" Height="29" Margin="74,506,0,0" TextWrapping="Wrap" Text="Добавить набор вопросов" VerticalAlignment="Top" Width="269" FontFamily="Franklin Gothic Medium" FontSize="22" Foreground="White">
+            <TextBox.BorderBrush>
+                <ImageBrush/>
+            </TextBox.BorderBrush>
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="29" Margin="357,505,0,0" TextWrapping="Wrap" Text="Изменить набор вопросов" VerticalAlignment="Top" Width="278" FontSize="22" FontFamily="Franklin Gothic Medium" Foreground="White" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.649"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+            <TextBox.BorderBrush>
+                <ImageBrush/>
+            </TextBox.BorderBrush>
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="29" Margin="654,506,0,0" TextWrapping="Wrap" Text="Удалить набор вопросов" VerticalAlignment="Top" Width="247" Foreground="White" FontSize="22" FontFamily="Franklin Gothic Medium">
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+            <TextBox.BorderBrush>
+                <ImageBrush/>
+            </TextBox.BorderBrush>
+        </TextBox>
+
+    </Grid>
+</Window>
