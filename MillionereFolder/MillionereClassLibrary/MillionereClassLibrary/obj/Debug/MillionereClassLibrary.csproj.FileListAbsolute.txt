@@ -48,3 +48,12 @@ C:\Users\a578\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClass
 C:\Users\a578\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
 C:\Users\a578\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
 C:\Users\a578\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
