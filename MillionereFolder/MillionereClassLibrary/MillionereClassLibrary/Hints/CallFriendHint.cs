@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MillionereClassLibrary.Hints
 {
@@ -22,7 +19,7 @@ namespace MillionereClassLibrary.Hints
         {
             SetUsed();
 
-            Random randomValue = new Random();
+            var randomValue = new Random();
             int maxRandomValue = 100;
             int calculatedProbability = randomValue.Next(maxRandomValue);
 

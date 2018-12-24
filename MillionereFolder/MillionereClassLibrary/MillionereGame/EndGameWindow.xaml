@@ -8,8 +8,8 @@
         Title="EndGameWindow" Height="450" Width="800">
     <Grid>
         <Label Name="ResultsOfGameLabel"  Content="Label" HorizontalAlignment="Left" Margin="309,182,0,0" VerticalAlignment="Top"/>
-        <Button Name="MainMenuButton"  Content="Main Menu" HorizontalAlignment="Left" Margin="121,290,0,0" VerticalAlignment="Top" Width="75" Click="MainMenuButton_Click"/>
-        <Button Name="ExitButton"  Content="Exit" HorizontalAlignment="Left" Margin="513,290,0,0" VerticalAlignment="Top" Width="75" Click="ExitButton_Click"/>
+        <Button Name="MainMenuButton"  Content="Главное меню" HorizontalAlignment="Left" Margin="121,290,0,0" VerticalAlignment="Top" Width="98" Click="MainMenuButton_Click"/>
+        <Button Name="ExitButton"  Content="Выход" HorizontalAlignment="Left" Margin="513,290,0,0" VerticalAlignment="Top" Width="75" Click="ExitButton_Click"/>
 
     </Grid>
 </Window>

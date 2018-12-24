@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using System.Xml.Serialization;
 
 namespace MillionereGame
 {
@@ -25,7 +24,7 @@ namespace MillionereGame
     [Serializable]
     public class AnswrsWithPossCollection : Collection<AnswersWithPossibilities>
     {
-        private static AnswrsWithPossCollection chartInfo = new AnswrsWithPossCollection();
+        private static readonly AnswrsWithPossCollection chartInfo = new AnswrsWithPossCollection();
         private AnswrsWithPossCollection()
         { }
         public static AnswrsWithPossCollection GetInstance(List<string> answers = null, SortedSet<int> possibilities = null)

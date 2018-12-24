@@ -6,9 +6,6 @@ namespace MillionereClassLibrary.Hints
     [Serializable]
     public class FiftyHint : Hint
     {
-        //public FiftyHint() : base()
-        //{
-        //}
 
         public FiftyHint(bool available = true)
         {
@@ -19,7 +16,7 @@ namespace MillionereClassLibrary.Hints
         {
             SetUsed();
 
-            Random randomValue = new Random();
+            var randomValue = new Random();
             int chosenAnswerNumber = randomValue.Next(answers.Count);
             if (answers[chosenAnswerNumber] == correctAnswer)
                 answers.Remove(correctAnswer);

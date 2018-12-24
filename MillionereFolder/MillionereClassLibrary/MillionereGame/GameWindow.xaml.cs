@@ -1,21 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
 using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
-using System.Xml.Serialization;
-using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
-using Microsoft.Win32;
 using MillionereClassLibrary;
 using MillionereClassLibrary.Hints;
 
@@ -64,16 +55,17 @@ namespace MillionereGame
             ScoreRichTextBox.Document.Blocks.Clear();
             for (int i = 0; i < scoresList.Count; i++)
             {
+                TextRange tr = new TextRange(ScoreRichTextBox.Document.ContentEnd,
+                    ScoreRichTextBox.Document.ContentEnd);
+                tr.Text = '\n' + scoresList[i];
+
                 if (i == currentPositionInScoreboard)
                 {
-                    TextRange tr = new TextRange(ScoreRichTextBox.Document.ContentEnd,
-                        ScoreRichTextBox.Document.ContentEnd);
-                    tr.Text = scoresList[i] + "\n";
                     tr.ApplyPropertyValue(TextElement.ForegroundProperty, Brushes.DarkOrange);
                 }
                 else
                 {
-                    ScoreRichTextBox.AppendText(scoresList[i] + '\n');
+                    tr.ApplyPropertyValue(TextElement.ForegroundProperty, Brushes.Black);
                 }
 
             }
@@ -88,10 +80,10 @@ namespace MillionereGame
                 SaveProgress();
             }
 
-        SetGUI();
+        SetGui();
         }
 
-        private void SetGUI()
+        private void SetGui()
         {
             var question = _game.CurrentRound.GetQuestion();
             var answersList = _game.CurrentRound.GetAnswers();
@@ -172,7 +164,7 @@ namespace MillionereGame
 
         private bool ConfirmAnswer(string line)
         {
-            ConfirmationScreen scr = new ConfirmationScreen(line);
+            var scr = new ConfirmationScreen(line);
             scr.ShowDialog();
             return scr.IsFinalAnswer;
         }
@@ -182,8 +174,11 @@ namespace MillionereGame
             var isCorrectAnswer = _game.CurrentRound.CheckAnswer(clickedButton.Content.ToString());
             SetButtonsColorAfterAnswer(clickedButton, isCorrectAnswer);
             CalculateRoundResults(isCorrectAnswer);
-            SaveProgress();
-            StartNewRound(true);
+            if (!_game.GameIsFinished)
+            {
+                SaveProgress();
+                StartNewRound(true);
+            }
         }
 
         private void CalculateRoundResults(bool isCorrectAnswer)
@@ -197,15 +192,15 @@ namespace MillionereGame
         private void EndGame(bool gameIsWon)
         {
             var result = "";
+            var isFound = false;
             if (gameIsWon)
             {
-                result = "You answered "+ _game.CurrentScorePosition + "out of 15 questions and got this much money : " +
+                result = "Вы ответили на такое число вопросов: " + _game.CurrentScorePosition + "из 15" + @"\nВаш приз составил : " +
                          _scores[_game.CurrentScorePosition - 1];
             }
             else
             {
-                bool isFound = false;
-                int scorePosition = -1;
+                var scorePosition = -1;
                 foreach (var position in _game.SafePositionsSet)
                 {
                     if (position < _game.CurrentScorePosition)
@@ -219,14 +214,16 @@ namespace MillionereGame
                 }
 
                 if (scorePosition == -1)
-                    result = "You lost";
+                    result = "Вы проиграли";
                 else
-                    result = "You answered " + scorePosition + " questions and got some money : " +
+                    result = "Вы ответили на такое число вопросов: " + scorePosition + @"\nИ получили такой приз: " +
                          _scores[scorePosition];
             }
 
-            if (File.Exists(_game.CurrentPlayer.Name + "_gameProgress.xml"))
-                File.Delete(_game.CurrentPlayer.Name + "_gameProgress.xml");
+            if (File.Exists(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat"))
+                File.Delete(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat");
+
+            _game.GameIsFinished = true;
 
             var resultsWindow = new EndGameWindow(result);
             resultsWindow.Show();
@@ -251,7 +248,7 @@ namespace MillionereGame
         private void SecondAnswerButton_Click(object sender, RoutedEventArgs e)
         {
             SecondAnswerButton.Background = Brushes.Yellow;
-            var isFinalAnswer = ConfirmAnswer("Is this your final answer?");
+            var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
             if (isFinalAnswer)
             {
                 EndRound(ref SecondAnswerButton);
@@ -263,7 +260,7 @@ namespace MillionereGame
         private void FourAnswerButton_Click(object sender, RoutedEventArgs e)
         {
             FourthAnswerButton.Background = Brushes.Yellow;
-            var isFinalAnswer = ConfirmAnswer("Is this your final answer?");
+            var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
             if (isFinalAnswer)
             {
                 EndRound(ref FourthAnswerButton);
@@ -275,7 +272,7 @@ namespace MillionereGame
         private void ThirdAnswerButton_Click(object sender, RoutedEventArgs e)
         {
             ThirdAnswerButton.Background = Brushes.Yellow;
-            var isFinalAnswer = ConfirmAnswer("Is this your final answer?");
+            var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
             if (isFinalAnswer)
             {
                 EndRound(ref ThirdAnswerButton);
@@ -361,15 +358,13 @@ namespace MillionereGame
         {
             if (_game.CurrentScorePosition < 5)
                 return 99;
-            if (_game.CurrentScorePosition < 10)
-                return 66;
-            return 33;
+            return _game.CurrentScorePosition < 10 ? 66 : 33;
         }
         private void SaveProgress()
         {
-            BinaryFormatter formatter = new BinaryFormatter();
+            var formatter = new BinaryFormatter();
 
-            using (FileStream fs = new FileStream(_game.CurrentPlayer.Name + "_gameProgress.dat",
+            using (var fs = new FileStream(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat",
                 FileMode.OpenOrCreate))
             {
                 formatter.Serialize(fs, _game);

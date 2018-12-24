@@ -1,17 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MillionereClassLibrary.Hints
 {
     [Serializable]
     public class AudienceHelpHint : Hint
     { 
-        //public AudienceHelpHint() : base()
-        //{
-        //}
 
         public AudienceHelpHint()
         {
@@ -21,8 +16,8 @@ namespace MillionereClassLibrary.Hints
         {
             SetUsed();
 
-            List<string> result = new List<string>();
-            Random randomValue = new Random();
+            var result = new List<string>();
+            var randomValue = new Random();
             int maxPercent = 100;
             int randomPercent = randomValue.Next(maxPercent);
 
@@ -45,8 +40,8 @@ namespace MillionereClassLibrary.Hints
 
         public SortedSet<int> CalculateProbability(int answersNumber)
         {
-            Random randomValue = new Random();
-            SortedSet<int> setOfPercentages = new SortedSet<int>();
+            var randomValue = new Random();
+            var setOfPercentages = new SortedSet<int>();
             int maxPercent = 100;
 
             while (answersNumber > 1)

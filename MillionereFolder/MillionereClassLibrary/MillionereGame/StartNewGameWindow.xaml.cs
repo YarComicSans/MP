@@ -1,6 +1,7 @@
 ﻿using Microsoft.Win32;
 using MillionereClassLibrary;
 using System.Collections.Generic;
+using System.IO;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
@@ -25,7 +26,11 @@ namespace MillionereGame
 
         private void ChooseQuestionPackButton_Click(object sender, RoutedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog {Filter = "XML Files (*.xml)|*.xml" };
+            var openFileDialog = new OpenFileDialog
+            {
+                Filter = "XML Files (*.xml)|*.xml",
+                InitialDirectory = Directory.GetCurrentDirectory() + @"\QuestionPacks"
+            };
             if (openFileDialog.ShowDialog() == true)
             {
                 string fullPath = Path.GetFullPath(openFileDialog.FileName);
@@ -63,17 +68,6 @@ namespace MillionereGame
         {
             CorrectHosterLabel.Content = "";
         }
-        private void PlayerNameButton_Click(object sender, RoutedEventArgs e)
-        {
-            bool inputNameIsValid = Validator.CheckPlayersName(PlayersNameTextBox.Text);
-            if (!inputNameIsValid)
-            {
-                SetCorrectnessLabel(CorrectPlayerNameLabel);
-                return;
-            }
-            SetCorrectnessLabel(CorrectPlayerNameLabel, "Ok!", "Green");
-            _player = StartNewGameHelperFunctions.MakePlayer(PlayersNameTextBox.Text);
-        }
 
         private void StartGameButton_Click(object sender, RoutedEventArgs e)
         {
@@ -82,9 +76,9 @@ namespace MillionereGame
             {
                 SetSavePositions();
                 _player = StartNewGameHelperFunctions.MakePlayer(PlayersNameTextBox.Text);
-                Game game = new Game(_hoster, _questionList, _player, _savePositions);
+                var game = new Game(_hoster, _questionList, _player, _savePositions);
 
-                GameWindow window = new GameWindow(game);
+                var window = new GameWindow(game);
                 window.Show();
                 this.Close();
             }
@@ -93,7 +87,7 @@ namespace MillionereGame
         private void SetCorrectnessLabel(Label labelToChange, string message = "Bad!", string colorName = "Red")
         {
             labelToChange.Content = message;
-            Color color = (Color)ColorConverter.ConvertFromString(colorName);
+            var color = (Color)ColorConverter.ConvertFromString(colorName);
             labelToChange.Foreground = new SolidColorBrush(color);
         }
 
@@ -104,7 +98,7 @@ namespace MillionereGame
             else
                 SetCorrectnessLabel(CorrectHosterLabel);
 
-            if(PlayersNameTextBox.Text != "" && Validator.CheckPlayersName(PlayersNameTextBox.Text)) //do some validations
+            if(PlayersNameTextBox.Text != "" && Validator.CheckPlayersName(PlayersNameTextBox.Text))
                 SetCorrectnessLabel(CorrectPlayerNameLabel, "Ok!", "Green");
             else
                 SetCorrectnessLabel(CorrectPlayerNameLabel);

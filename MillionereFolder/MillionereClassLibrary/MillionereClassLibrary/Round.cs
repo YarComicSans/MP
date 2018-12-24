@@ -1,24 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using MillionereClassLibrary.Hints;
-using System.Xml.Serialization;
 
 namespace MillionereClassLibrary
 {
     [Serializable]
      public class Round
     {
-        public QuestionStructure _currentQuestionStructure;
-        public Player _currentPlayer;
+        public QuestionStructure CurrentQuestionStructure;
+        public Player CurrentPlayer;
         public HintsUsage UsedHints = new HintsUsage();
 
         public Round(Player player, QuestionStructure questionStructure)
         {
-            _currentPlayer = player;
-            _currentQuestionStructure = questionStructure;
+            CurrentPlayer = player;
+            CurrentQuestionStructure = questionStructure;
         }
 
         public Round()
@@ -41,33 +37,33 @@ namespace MillionereClassLibrary
 
         public void ChangeCurrectQuestionStructure(QuestionStructure questionStructure)
         {
-            _currentQuestionStructure = questionStructure;
+            CurrentQuestionStructure = questionStructure;
         }
         public bool CheckAnswer(string chosenAnswer)
         {
-            if(chosenAnswer == _currentQuestionStructure.CorrectAnswer)
+            if(chosenAnswer == CurrentQuestionStructure.CorrectAnswer)
                 return true;
             return false;
         }
 
         public string GetQuestion()
         {
-            return _currentQuestionStructure.Question;
+            return CurrentQuestionStructure.Question;
         }
 
         public string GetCorrectAnswer()
         {
-            return _currentQuestionStructure.CorrectAnswer;
+            return CurrentQuestionStructure.CorrectAnswer;
         }
 
         public List<string> GetAnswers()
         {
-            return _currentQuestionStructure.Answers;
+            return CurrentQuestionStructure.Answers;
         }
 
         public List<Hint> GetAvalibaleHints()
         {
-            return _currentPlayer.GetAvailableHints();
+            return CurrentPlayer.GetAvailableHints();
         }
         public List<string> UseHint(Hint hint, List<string> answers, string correctAnswer, int requiredProbability = 0)
         {
@@ -76,7 +72,7 @@ namespace MillionereClassLibrary
 
         public void RemoveAnswers(List<string> answers)
         {
-            _currentQuestionStructure.RemoveAnswers(answers);
+            CurrentQuestionStructure.RemoveAnswers(answers);
         }
     }
 }

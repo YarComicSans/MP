@@ -22,12 +22,12 @@
             <Button Name="AudienceHelpButton" Content="Help" HorizontalAlignment="Left" Margin="153,7,0,0" VerticalAlignment="Top" Width="50" Click="AudienceHelpButton_Click" Visibility="Hidden"/>
         </Grid>
         <Grid HorizontalAlignment="Left" Height="249" Margin="540,10,0,0" VerticalAlignment="Top" Width="132" Grid.Column="1">
-            <Label Content="Score" HorizontalAlignment="Center" Margin="41,0,35,0" VerticalAlignment="Top" Height="24" Width="56" FontSize="10" />
-            <RichTextBox Name="ScoreRichTextBox"  HorizontalAlignment="Left" Height="377" Margin="10,24,0,-152" VerticalAlignment="Top" Width="122">
+            <Label Content="Счет" HorizontalAlignment="Center" Margin="41,0,35,0" VerticalAlignment="Top" Height="24" Width="56" FontSize="10" />
+            <RichTextBox Name="ScoreRichTextBox"  HorizontalAlignment="Left" Height="377" Margin="10,24,0,-152" VerticalAlignment="Top" Width="122" IsReadOnly ="True">
                 <FlowDocument>
                     <Paragraph>
                         <InlineUIContainer>
-                            <RichTextBox Height="378" Width="122" IsReadOnly="True">
+                            <RichTextBox Height="378" Width="122" IsReadOnly="True" FontSize ="9">
                                 <FlowDocument>
                                     <Paragraph>
                                         <Run Text="RichTextBox"/>
@@ -39,8 +39,8 @@
                 </FlowDocument>
             </RichTextBox>
         </Grid>
-        <Button Name="EndGameButton" Content="End" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Width="44" Height="19" Click="EndGameButton_Click"/>
-        <Button Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="87,11,0,0" VerticalAlignment="Top" Width="44" Height="19" Grid.ColumnSpan="2" Click="SaveButton_Click"/>
+        <Button Name="EndGameButton" Content="Завершить игру" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Width="102" Height="19" Click="EndGameButton_Click" Grid.ColumnSpan="2"/>
+        <Button Name="SaveButton" Content="Сохранить" HorizontalAlignment="Left" Margin="64,10,0,0" VerticalAlignment="Top" Width="86" Height="19" Click="SaveButton_Click" Grid.Column="1"/>
         <Image Name="HosterImage"  Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="155" Margin="25,39,0,0" VerticalAlignment="Top" Width="211" Source="MillionereGame/bin/Debug/Icons/GalkinIcon.jpg"/>
         <Grid Grid.Column="1" HorizontalAlignment="Left" Height="155" Margin="185,39,0,0" VerticalAlignment="Top" Width="324">
             <Label Name="CallFriendResultLabel"  Content="" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.605,-0.808" Height="96" Width="304"/>

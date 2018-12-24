@@ -36,12 +36,12 @@ namespace MillionereGame
         public static List<QuestionStructure> MakeQuestionList(string questionPackPath)
         {
             string textFromPack = "";
-            using (StreamReader sr = new StreamReader(questionPackPath))
+            using (var sr = new StreamReader(questionPackPath))
             {
                 textFromPack = sr.ReadToEnd();
             }
 
-            List<QuestionStructure> questionList = new List<QuestionStructure>();
+            var questionList = new List<QuestionStructure>();
             
             var questions = Regex.Split(textFromPack, @"(<Question>[\s\S]+?<\/Question>)").Where(l => l != string.Empty).ToArray();
             for(int i = 1; i < questions.Length; i+=2)
@@ -52,13 +52,13 @@ namespace MillionereGame
         public static string GetQuestionPackName(string questionPackPath)
         {
             string textFromPack = "";
-            using (StreamReader sr = new StreamReader(questionPackPath))
+            using (var sr = new StreamReader(questionPackPath))
             {
                 textFromPack = sr.ReadToEnd();
             }
             string pattern = @"<Name>(.*?)</Name>";
-            Regex regex = new Regex(pattern);
-            MatchCollection matches = regex.Matches(textFromPack);
+            var regex = new Regex(pattern);
+            var matches = regex.Matches(textFromPack);
 
             string name = matches[matches.Count - 1].Value.Substring(6, matches[matches.Count - 1].Value.Length - 13);
             return name;

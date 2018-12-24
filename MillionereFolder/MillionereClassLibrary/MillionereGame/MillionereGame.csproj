@@ -104,9 +104,6 @@
     <Compile Include="StartNewGameWindow.xaml.cs">
       <DependentUpon>StartNewGameWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="StartUpScreen.xaml.cs">
-      <DependentUpon>StartUpScreen.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Validator.cs" />
     <Page Include="ChartWindow.xaml">
       <SubType>Designer</SubType>
@@ -148,10 +145,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="StartUpScreen.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -185,9 +178,6 @@
       <Project>{fcbe8c61-8547-42ed-bb81-bdcf22428384}</Project>
       <Name>MillionereClassLibrary</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="800px-WWTBAM-UK-Background-old.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

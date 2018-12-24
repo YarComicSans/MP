@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Xml.Serialization;
 
 namespace MillionereClassLibrary
 {
@@ -11,6 +10,7 @@ namespace MillionereClassLibrary
         public List<QuestionStructure> _questionStructureList;
         public Player CurrentPlayer;
         public bool GameIsWon = false;
+        public bool GameIsFinished = false;
         public int CurrentScorePosition;
         public Round CurrentRound;
         public List<int> SafePositionsSet;

@@ -1,11 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Security.Policy;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using System.Xml.Serialization;
 
 namespace MillionereClassLibrary
 {
@@ -34,8 +29,8 @@ namespace MillionereClassLibrary
         private string GetQuestion(string text)
         {
             string pattern = @"<Name>(.*?)</Name>";
-            Regex regex = new Regex(pattern);
-            Match match = regex.Match(text);
+            var regex = new Regex(pattern);
+            var match = regex.Match(text);
 
             return match.Success ? GetValue(match.Value, 6, 13) : "Haven't load the question";
         }
@@ -45,9 +40,9 @@ namespace MillionereClassLibrary
             if (Answers != null)
                 return Answers;
             string pattern = @"<Text>(.*?)</Text>";
-            Regex regex = new Regex(pattern);
-            MatchCollection matches = regex.Matches(text);
-            List<string> answers = new List<string>();
+            var regex = new Regex(pattern);
+            var matches = regex.Matches(text);
+            var answers = new List<string>();
 
             foreach (Match match in matches)
             {
@@ -60,8 +55,8 @@ namespace MillionereClassLibrary
         private string GetCorrectAnswer(string text)
         {
             string pattern = @"<CorrectAnswer>(.*?)</CorrectAnswer>";
-            Regex regex = new Regex(pattern);
-            Match match = regex.Match(text);
+            var regex = new Regex(pattern);
+            var match = regex.Match(text);
 
             return match.Success ? GetValue(match.Value,15,31) : "Haven't load the correct answer";
         }
