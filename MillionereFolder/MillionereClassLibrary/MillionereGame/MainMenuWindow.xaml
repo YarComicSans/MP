@@ -1,0 +1,17 @@
+﻿<Window x:Class="MillionereGame.MainMenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MillionereGame"
+        mc:Ignorable="d"
+        Title="Главное меню" Icon="icon.png" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="fonG.png"/>
+    </Window.Background>
+    <Grid>
+        <Button Name="NewGameButton"  Content="Новая игра" HorizontalAlignment="Left" Margin="91,367,0,0" VerticalAlignment="Top" Width="129" Click="NewGameButton_Click" RenderTransformOrigin="-1.718,9.718" Height="32" Background="#FFC2B5FD" BorderBrush="#FF5149FF" FontSize="16" FontFamily="Segoe UI Black"/>
+        <Button x:Name="LoadGameButton"  Content="Загрузить" HorizontalAlignment="Left" Margin="338,367,0,0" VerticalAlignment="Top" Width="129" Click="LoadGameButton_Click" Height="32" FontSize="16" FontFamily="Segoe UI Black" BorderBrush="#FF592AF5" Background="#FFDBD5F7"/>
+        <Button x:Name="ExitButton"  Content="Выход" HorizontalAlignment="Left" Margin="600,367,0,0" VerticalAlignment="Top" Width="129" Click="ExitButton_Click" Height="32" Background="#FFDDD6FF" BorderBrush="#FF7047F9" FontSize="16" FontFamily="Segoe UI Black"/>
+    </Grid>
+</Window>

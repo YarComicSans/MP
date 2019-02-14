@@ -1,0 +1,119 @@
+G:\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+G:\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+G:\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojResolveAssemblyReference.cache
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\App.g.cs
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+G:\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojResolveAssemblyReference.cache
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\App.g.cs
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.Cache
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+C:\Users\Владелец\Downloads\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\App.g.cs
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\App.g.cs
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+D:\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\App.g.cs
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+H:\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Downloads\MillionereQuestionEditor_2_1\MillionereQuestionEditor_2 (1)\MillionereQuestionEditor (2)\MillionereQuestionEditor\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
