@@ -6,7 +6,7 @@
         xmlns:cht="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
         xmlns:local="clr-namespace:MillionereGame"
         mc:Ignorable="d"
-        Title="ChartWindow" Height="450" Width="800">
+        Title="ChartWindow" Icon="icon.png"  Height="450" Width="800">
 
     <Grid>
         <cht:Chart Name="AudienceChart" Title="Зал считает, что ..." 

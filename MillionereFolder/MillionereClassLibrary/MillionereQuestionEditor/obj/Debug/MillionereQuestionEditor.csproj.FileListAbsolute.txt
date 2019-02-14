@@ -134,3 +134,54 @@ C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereQuest
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe.config
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.exe
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\bin\Debug\MillionereQuestionEditor.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csprojAssemblyReference.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\App.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor_MarkupCompile.lref
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MainWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\QuestionEditorWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.g.resources
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.Properties.Resources.resources
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.GenerateResource.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.csproj.CoreCompileInputs.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.exe
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereQuestionEditor\obj\Debug\MillionereQuestionEditor.pdb

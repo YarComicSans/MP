@@ -5,11 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MillionereGame"
         mc:Ignorable="d"
-        Title="ConfirmationScreen" Height="349.138" Width="412.069">
+        Title="Подтвердите свой ответ" Icon="icon.png" Height="349.138" Width="412.069" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="sure.png"/>
+    </Window.Background>
     <Grid>
-        <Button Name="NoButton" Content="Нет" HorizontalAlignment="Left" VerticalAlignment="Top" Width="98" Margin="245,186,0,0" Height="23" Click="NoButton_Click"/>
-        <Button Name="YesButton" Content="Да" HorizontalAlignment="Left" VerticalAlignment="Top" Width="98" Margin="64,186,0,0" Height="23" Click="YesButton_Click"/>
-        <Label Name="QuestionLabel" Content="Это Ваш окончательны ответ?" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="126,121,90,0" Height="29" Width="188"/>
+        <Button Name="NoButton" Content="Нет" HorizontalAlignment="Left" VerticalAlignment="Top" Width="125" Margin="254,243,0,0" Height="39" Click="NoButton_Click" Background="White" FontSize="16" FontFamily="Segoe UI Black"/>
+        <Button Name="YesButton" Content="Да" HorizontalAlignment="Left" VerticalAlignment="Top" Width="125" Margin="37,243,0,0" Height="39" Click="YesButton_Click" Background="White" FontFamily="Segoe UI Black" FontSize="16"/>
+        <Label Name="QuestionLabel" Content="Это Ваш окончательный ответ?" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="37,29,38,0" Height="74" Width="331" Foreground="White" FontFamily="Segoe UI Black" FontSize="20"/>
 
     </Grid>
 </Window>

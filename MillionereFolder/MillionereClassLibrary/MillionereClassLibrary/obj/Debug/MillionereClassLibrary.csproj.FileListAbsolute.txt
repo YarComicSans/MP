@@ -57,3 +57,19 @@ C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClass
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\MillionereClassLibrary.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csprojAssemblyReference.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CoreCompileInputs.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.csproj.CopyComplete
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereClassLibrary\obj\Debug\MillionereClassLibrary.pdb

@@ -318,3 +318,156 @@ C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereGame\
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CopyComplete
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.exe
 C:\Users\user\Desktop\MP\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.pdb
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.exe.config
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.exe
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.pdb
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereClassLibrary.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereClassLibrary.pdb
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ChartWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ConfirmationScreen.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\EndGameWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\GameWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\HintWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\LoadGameWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MainMenuWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\SettingWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\StartNewGameWindow.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ChartWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ConfirmationScreen.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\EndGameWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\GameWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\HintWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\LoadGameWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MainMenuWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\SettingWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\StartNewGameWindow.baml
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.g.resources
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CopyComplete
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.exe
+C:\Users\Ирина Грибкова\Downloads\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.exe.config
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.exe
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereClassLibrary.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereClassLibrary.pdb
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csprojAssemblyReference.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ChartWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ConfirmationScreen.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\EndGameWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\GameWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\HintWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\LoadGameWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MainMenuWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\SettingWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\StartNewGameWindow.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\App.g.cs
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame_MarkupCompile.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame_MarkupCompile.lref
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ChartWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ConfirmationScreen.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\EndGameWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\GameWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\HintWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\LoadGameWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MainMenuWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\SettingWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\StartNewGameWindow.baml
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.g.resources
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.Properties.Resources.resources
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.GenerateResource.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CopyComplete
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.exe
+C:\Users\Ирина Грибкова\Documents\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.exe.config
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.exe
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereGame.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereClassLibrary.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.DataGrid.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\MillionereClassLibrary.pdb
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csprojAssemblyReference.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ChartWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ConfirmationScreen.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\EndGameWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\GameWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\HintWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\LoadGameWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MainMenuWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\SettingWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\StartNewGameWindow.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\App.g.cs
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame_MarkupCompile.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame_MarkupCompile.lref
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ChartWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\ConfirmationScreen.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\EndGameWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\GameWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\HintWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\LoadGameWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MainMenuWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\SettingWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\StartNewGameWindow.baml
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.g.resources
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.Properties.Resources.resources
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.GenerateResource.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CoreCompileInputs.cache
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.csproj.CopyComplete
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.exe
+H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\MillionereGame.pdb

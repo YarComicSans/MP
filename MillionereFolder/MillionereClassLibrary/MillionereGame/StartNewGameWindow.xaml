@@ -5,26 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MillionereGame"
         mc:Ignorable="d"
-        Title="StartNewGameWindow" Height="450" Width="800">
+        Title="Начать новую игру"  Icon="icon.png" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="newGame.png"/>
+    </Window.Background>
     <Grid>
         <Grid HorizontalAlignment="Left" Height="126" Margin="103,27,0,0" VerticalAlignment="Top" Width="358">
-            <CheckBox Name="GalkinCheckBox" Content="Галкин" HorizontalAlignment="Left" Margin="133,37,0,0" VerticalAlignment="Top" Height="19" Width="128" Checked="GalkinCheckBox_Checked" Unchecked="GalkinCheckBox_Unchecked"/>
-            <CheckBox Name="DibrovCheckBox"  Content="Дибров" HorizontalAlignment="Left" Margin="133,61,0,0" VerticalAlignment="Top" Height="20" Width="128" Checked="DibrovCheckBox_Checked" Unchecked="DibrovCheckBox_Unchecked"/>
-            <Label x:Name="ChooseHosterLabel" Content="Выберите ведущего" HorizontalAlignment="Left" Margin="133,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.775,1.923" Height="32" Width="128"/>
+            <CheckBox Name="GalkinCheckBox" Content="Галкин" HorizontalAlignment="Left" Margin="133,37,0,0" VerticalAlignment="Top" Height="19" Width="128" Checked="GalkinCheckBox_Checked" Unchecked="GalkinCheckBox_Unchecked" FontSize="14" FontFamily="Segoes UI Black" Foreground="White" Background="Black"/>
+            <CheckBox Name="DibrovCheckBox"  Content="Дибров" HorizontalAlignment="Left" Margin="133,61,0,0" VerticalAlignment="Top" Height="20" Width="128" Checked="DibrovCheckBox_Checked" Unchecked="DibrovCheckBox_Unchecked" Foreground="White" FontSize="14" FontFamily="Segoe UI Black" Background="Black"/>
+            <Label x:Name="ChooseHosterLabel" Content="Выберите ведущего" HorizontalAlignment="Left" Margin="133,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.775,1.923" Height="32" Width="179" Foreground="White" FontSize="16" FontFamily="Segoe UI Black"/>
             <Label Name="CorrectHosterLabel"  Content="" HorizontalAlignment="Left" Height="23" Margin="33,43,0,0" VerticalAlignment="Top" Width="65"/>
         </Grid>
         <Grid HorizontalAlignment="Left" Height="71" Margin="125,121,0,0" VerticalAlignment="Top" Width="643">
-            <Button x:Name="ChooseQuestionPackButton" Content="Выбрать" HorizontalAlignment="Left" Margin="120,41,0,0" VerticalAlignment="Top" Width="75" Click="ChooseQuestionPackButton_Click"/>
-            <Label x:Name="ChooseQuestionPackLabel" Content="Выберите набор вопросов" HorizontalAlignment="Left" Margin="113,0,0,0" VerticalAlignment="Top"/>
-            <Label Name="QuestionPackNameLabel"  Content="" HorizontalAlignment="Left" Margin="230,36,0,0" VerticalAlignment="Top" Height="25" Width="380"/>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="145*"/>
+                <ColumnDefinition Width="498*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="ChooseQuestionPackButton" Content="Выбрать" HorizontalAlignment="Left" Margin="120,41,0,0" VerticalAlignment="Top" Width="82" Click="ChooseQuestionPackButton_Click" Height="30" Background="#FFC5E2FB" BorderBrush="#FF2134F5" FontSize="14" FontFamily="Segoe UI Black" Grid.ColumnSpan="2"/>
+            <Label x:Name="ChooseQuestionPackLabel" Content="Выберите набор вопросов" HorizontalAlignment="Left" Margin="113,0,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe UI Black" Foreground="White" Grid.ColumnSpan="2"/>
+            <Label Name="QuestionPackNameLabel"  Content="" HorizontalAlignment="Left" Margin="85.471,36,0,0" VerticalAlignment="Top" Height="25" Width="380" Foreground="White" Grid.Column="1"/>
             <Label Name="CorrectQuestionPackLabel" Content="" HorizontalAlignment="Left" Height="23" Margin="10,23,0,0" VerticalAlignment="Top" Width="65"/>
         </Grid>
         <Grid HorizontalAlignment="Left" Height="69" Margin="125,211,0,0" VerticalAlignment="Top" Width="521">
-            <Label x:Name="PlayersNameLabel" Content="Введите имя игрока" HorizontalAlignment="Left" Margin="115,0,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="PlayersNameLabel" Content="Введите имя игрока" HorizontalAlignment="Left" Margin="115,0,0,0" VerticalAlignment="Top" Width="179" FontSize="16" FontFamily="Segoe UI Black" Foreground="White"/>
             <TextBox x:Name="PlayersNameTextBox" HorizontalAlignment="Left" Height="23" Margin="121,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="252"/>
             <Label Name="CorrectPlayerNameLabel" Content="" HorizontalAlignment="Left" Height="23" Margin="10,29,0,0" VerticalAlignment="Top" Width="65"/>
         </Grid>
-        <Button x:Name="StartGameButton" Content="Начать игру" HorizontalAlignment="Left" Margin="294,303,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.053,0.35" Click="StartGameButton_Click"/>
+        <Button x:Name="StartGameButton" Content="Начать игру" HorizontalAlignment="Left" Margin="311,305,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.053,0.35" Click="StartGameButton_Click" Height="30" BorderBrush="#FF1058F3" Background="#FFCFE0FF" FontSize="14" FontFamily="Segoe UI Black"/>
 
     </Grid>
 </Window>

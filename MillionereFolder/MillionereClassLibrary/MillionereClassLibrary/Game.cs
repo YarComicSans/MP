@@ -43,7 +43,7 @@ namespace MillionereClassLibrary
         }
 
         private void SetNewRound()
-        {
+        {if(CurrentScorePosition<15)
             CurrentRound = new Round(CurrentPlayer, _questionStructureList[CurrentScorePosition]);
         }
 

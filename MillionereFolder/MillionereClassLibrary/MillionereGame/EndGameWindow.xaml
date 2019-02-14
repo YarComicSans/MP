@@ -5,11 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MillionereGame"
         mc:Ignorable="d"
-        Title="EndGameWindow" Height="450" Width="800">
+        Title="Игра окончена" Icon="icon.png" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="Red.png"/>
+    </Window.Background>
     <Grid>
-        <Label Name="ResultsOfGameLabel"  Content="Label" HorizontalAlignment="Left" Margin="309,182,0,0" VerticalAlignment="Top"/>
-        <Button Name="MainMenuButton"  Content="Главное меню" HorizontalAlignment="Left" Margin="121,290,0,0" VerticalAlignment="Top" Width="98" Click="MainMenuButton_Click"/>
-        <Button Name="ExitButton"  Content="Выход" HorizontalAlignment="Left" Margin="513,290,0,0" VerticalAlignment="Top" Width="75" Click="ExitButton_Click"/>
+        <Label Name="ResultsOfGameLabel"  Content="Label" HorizontalAlignment="Left" Margin="134,134,0,0" VerticalAlignment="Top" Foreground="#FFFFFCFC" FontSize="20" FontFamily="Segoe UI Black" Width="540" Height="153"/>
+        <Button Name="MainMenuButton"  Content="Главное меню" HorizontalAlignment="Left" Margin="87,334,0,0" VerticalAlignment="Top" Width="154" Click="MainMenuButton_Click" Height="41" Background="#FFFFD4D4" BorderBrush="#FFFF2F2F" FontSize="16" FontFamily="Segoe UI Black"/>
+        <Button Name="ExitButton"  Content="Выход" HorizontalAlignment="Left" Margin="534,334,0,0" VerticalAlignment="Top" Width="154" Click="ExitButton_Click" Height="41" BorderBrush="#FFF91A1A" Background="#FFFDDBDB" FontSize="16" FontFamily="Segoe UI Black"/>
 
     </Grid>
 </Window>

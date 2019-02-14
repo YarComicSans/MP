@@ -112,7 +112,7 @@ namespace MillionereGame
         private bool GameIsReady()
         {
             return CorrectPlayerNameLabel.Content == CorrectHosterLabel.Content &&
-                   CorrectQuestionPackLabel.Content == CorrectPlayerNameLabel.Content;
+                   CorrectQuestionPackLabel.Content == CorrectPlayerNameLabel.Content && CorrectHosterLabel.Content != "Bad!";
         }
     }
 }
