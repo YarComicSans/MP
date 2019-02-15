@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 namespace MillionereClassLibrary
 {
     [Serializable]
-    public class QuestionStructure  // Need to come up with an idea how to link GET functions
+    public class QuestionStructure 
     {
         public string CorrectAnswer;
         public string Question { get; set; }
@@ -32,7 +32,7 @@ namespace MillionereClassLibrary
             var regex = new Regex(pattern);
             var match = regex.Match(text);
 
-            return match.Success ? GetValue(match.Value, 6, 13) : "Haven't load the question";
+            return match.Success ? GetValue(match.Value, 6, 13) : "Haven't loaded the question";
         }
 
         private List<string> GetAnswers(string text)
@@ -58,7 +58,7 @@ namespace MillionereClassLibrary
             var regex = new Regex(pattern);
             var match = regex.Match(text);
 
-            return match.Success ? GetValue(match.Value,15,31) : "Haven't load the correct answer";
+            return match.Success ? GetValue(match.Value,15,31) : "Haven't loaded the correct answer";
         }
 
         public void RemoveAnswers(List<string> answers)

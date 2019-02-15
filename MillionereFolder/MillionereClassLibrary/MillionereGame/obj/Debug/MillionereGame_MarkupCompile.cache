@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\
+H:\MP\MillionereFolder\MillionereClassLibrary\MillionereGame\obj\Debug\
 MillionereGame
 none
 false
 DEBUG;TRACE
-H:\MP-MillionereGame_Alekseev_1\MP-MillionereGame_Alekseev (1)\MP-MillionereGame_Alekseev\MillionereFolder\MillionereClassLibrary\MillionereGame\App.xaml
-9-1674486363
+H:\MP\MillionereFolder\MillionereClassLibrary\MillionereGame\App.xaml
+8-1758764048
 
-161253790275
-211032793576
-ChartWindow.xaml;ConfirmationScreen.xaml;EndGameWindow.xaml;GameWindow.xaml;HintWindow.xaml;LoadGameWindow.xaml;MainMenuWindow.xaml;SettingWindow.xaml;StartNewGameWindow.xaml;
+15-1990888108
+21-2026519926
+ChartWindow.xaml;ConfirmationScreen.xaml;EndGameWindow.xaml;GameWindow.xaml;HintWindow.xaml;LoadGameWindow.xaml;MainMenuWindow.xaml;StartNewGameWindow.xaml;
 
 False
 

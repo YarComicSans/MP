@@ -153,63 +153,20 @@ namespace MillionereGame
             MessageBox.Show("Ваш прогресс сохранен");
         }
 
-        private void FirstAnswerButton_Click(object sender, RoutedEventArgs e)
+        private void AnswerButton_Click(object sender, RoutedEventArgs e)
         {
-            FirstAnswerButton.Background = Brushes.Yellow;
-            var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
-            if (isFinalAnswer)
-            {
-                EndRound(ref FirstAnswerButton);
-            }
-            else
-            {
-                FirstAnswerButton.Background = Brushes.Black;
-                FirstAnswerButton.BorderBrush = Brushes.Purple;
-            }
-        }
+            var pressedAnswerButton = sender as Button;
 
-        private void SecondAnswerButton_Click(object sender, RoutedEventArgs e)
-        {
-            SecondAnswerButton.Background = Brushes.Yellow;
+            pressedAnswerButton.Background = Brushes.Yellow;
             var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
             if (isFinalAnswer)
             {
-                EndRound(ref SecondAnswerButton);
+                EndRound(ref pressedAnswerButton);
             }
             else
             {
-                SecondAnswerButton.Background = Brushes.Black;
-                SecondAnswerButton.BorderBrush = Brushes.Purple;
-            }
-        }
-
-        private void FourAnswerButton_Click(object sender, RoutedEventArgs e)
-        {
-            FourthAnswerButton.Background = Brushes.Yellow;
-            var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
-            if (isFinalAnswer)
-            {
-                EndRound(ref FourthAnswerButton);
-            }
-            else
-            {
-                FourthAnswerButton.Background = Brushes.Black;
-                FourthAnswerButton.BorderBrush = Brushes.Purple;
-            }
-        }
-
-        private void ThirdAnswerButton_Click(object sender, RoutedEventArgs e)
-        {
-            ThirdAnswerButton.Background = Brushes.Yellow;
-            var isFinalAnswer = ConfirmAnswer("Это Ваш окончательный ответ?");
-            if (isFinalAnswer)
-            {
-                EndRound(ref ThirdAnswerButton);
-            }
-            else
-            {
-                ThirdAnswerButton.Background = Brushes.Black;
-                ThirdAnswerButton.BorderBrush = Brushes.Purple;
+                pressedAnswerButton.Background = Brushes.Black;
+                pressedAnswerButton.BorderBrush = Brushes.Purple;
             }
         }
 
@@ -273,12 +230,11 @@ namespace MillionereGame
 
                 if (scorePosition == -1)
                     result = "Вы проиграли! Попробуйте ещё!";
-                else if (_game.CurrentScorePosition ==15)
+                else if (_game.CurrentScorePosition == 15)
                     result = "Вы победили!";
             }
 
-            if (File.Exists(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat"))
-                File.Delete(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat");
+            DeleteCurrentSave();
 
             _game.GameIsFinished = true;
 
@@ -287,9 +243,14 @@ namespace MillionereGame
             this.Close();
         }
 
+        private void DeleteCurrentSave()
+        {
+            if (File.Exists(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat"))
+                File.Delete(Directory.GetCurrentDirectory() + @"\Saves\" + _game.CurrentPlayer.Name + "_gameProgress.dat");
+        }
+
         private void SetButtonsColorAfterAnswer(Button clickedButton, bool isCorrectAnswer)
         {
-            //wait for a moment or two
             if (isCorrectAnswer)
                 clickedButton.Background = Brushes.LawnGreen;
             else
@@ -345,18 +306,30 @@ namespace MillionereGame
         private void CallHintButton_Click(object sender, RoutedEventArgs e)
         {
             var requiredPossibility = SetPossibility();
-
-
             var buttonList = CreateButtonList();
             List<string> currentAnswers = new List<string>();
-            for(int i = 0; i < buttonList.Count; i++)
+
+            for (int i = 0; i < buttonList.Count; i++)
             {
                 if (buttonList[i].Visibility == Visibility.Visible)
                     currentAnswers.Add(buttonList[i].Content.ToString());
             }
 
-            var answer = _game.CurrentRound.UseHint(_game.CurrentPlayer.Hints[1],currentAnswers,
+            List<string> answer = GetCallHintAnswer(requiredPossibility, currentAnswers);
+
+            SetCallHintButton(buttonList, answer);
+            RemoveCallHint();
+            SaveProgress();
+        }
+
+        private List<string> GetCallHintAnswer(int requiredPossibility, List<string> currentAnswers)
+        {
+            return _game.CurrentRound.UseHint(_game.CurrentPlayer.Hints[1], currentAnswers,
                 _game.CurrentRound.GetCorrectAnswer(), requiredPossibility);
+        }
+
+        private void SetCallHintButton(List<Button> buttonList, List<string> answer)
+        {
             for (int i = 0; i < buttonList.Count; i++)
             {
                 if (answer[0] == (string)buttonList[i].Content)
@@ -365,8 +338,6 @@ namespace MillionereGame
                     break;
                 }
             }
-            RemoveCallHint();
-            SaveProgress();
         }
 
         private void AudienceHelpButton_Click(object sender, RoutedEventArgs e)

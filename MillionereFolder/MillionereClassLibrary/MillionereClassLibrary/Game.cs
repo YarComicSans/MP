@@ -24,9 +24,6 @@ namespace MillionereClassLibrary
 
             SafePositionsSet.Sort();
         }
-
-        public Game()
-        { }
         
         public void RoundWon()
         {
