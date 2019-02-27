@@ -1,0 +1,28 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.pdb
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csprojResolveAssemblyReference.cache
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csproj.CoreCompileInputs.cache
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.exe
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.pdb
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe.config
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe
+G:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.pdb
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe.config
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.pdb
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csprojAssemblyReference.cache
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csproj.CoreCompileInputs.cache
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.exe
+I:\MP\2 semester\Labs\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.pdb
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe.config
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.exe
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\bin\Debug\WarAndWorldLaba.pdb
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csprojResolveAssemblyReference.cache
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.csproj.CoreCompileInputs.cache
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.exe
+C:\Users\a578\Desktop\WarAndWorldLaba\WarAndWorldLaba\obj\Debug\WarAndWorldLaba.pdb
